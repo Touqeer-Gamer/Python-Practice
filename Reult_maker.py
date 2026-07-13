@@ -7,7 +7,7 @@ roll = input("Enter Your Roll Number : ")
 print("Student's Roll Number : " ,roll)
 
 dep = input("Enter Your Department : ")
-print("depratment Name : " ,dep)
+print("department Name : " ,dep)
 
 sem = input("Enter Your Semester : ")
 print("Semester : " ,sem)
