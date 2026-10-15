@@ -1,5 +1,5 @@
 Weight = float(input("Enter Your Weight (in KGs) : "))
-Height = float(input("Enter Your Heght (ine meters) : "))
+Height = float(input("Enter Your Heght (in meters) : "))
 
 print("Your Weight : ",Weight)
 print("Your Height : ",Height)
